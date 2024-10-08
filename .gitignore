@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+
+# Shopify theme settings
+config/settings_data.json
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.vscode/
+
+# Ignore .env file containing sensitive information
+.env

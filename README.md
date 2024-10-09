@@ -103,18 +103,6 @@ OR
 - CSS is modularized for each component to allow for efficient loading.
 - JavaScript is kept minimal and specific to each section where possible.
 
-## Known Issues or TODOs
+--
 
-- [List any known issues or upcoming tasks]
-
-## Contributing
-
-[Specify any guidelines for contributing to the project]
-
-## License
-
-[Specify the license under which this theme is released]
-
----
-
-For any questions or concerns, please contact [Your Contact Information].
+For any questions or concerns, please contact [ihassanraza5055@gmail.com].
